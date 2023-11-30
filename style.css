@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: lightcyan;   
+    font-size: 4rem;
+}
+
+.container {
+    text-align: center;
+}
+
+#numbers-container {
+    margin-bottom: 20px;
+    background-color: lightgoldenrodyellow;
+}
+
+button{
+    font-size: 4rem;
+}
+
+#result {
+    margin-top: 20px;
+}
